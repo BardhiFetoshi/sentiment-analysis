@@ -1,0 +1,12 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+nltk
+xgboost
+joblib
+
+# Notebook environment
+jupyter
+matplotlib
+seaborn
