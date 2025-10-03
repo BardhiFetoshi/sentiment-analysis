@@ -8,15 +8,14 @@ This project was created as part of an internship application. It demonstrates h
 - Feature extraction: **TF-IDF Vectorization**.  
 - Models tested: Logistic Regression, Naïve Bayes, Support Vector Machine (SVM), and XGBoost.  
 - Best Model: **Logistic Regression** with ~75% accuracy.  
-- Deliverables:  
-  - Python Notebook (`Fatbardh_Fetoshi_Sentiment_Tweet_Project.ipynb`)  
-  - Report (`Sentiment_Project_Report_Fatbardh_Fetoshi.docx`)  
 
 ## Repository Structure  
+```
 .
 ├── Fatbardh_Fetoshi_Sentiment_Tweet_Project.ipynb   # Jupyter notebook with code
 ├── Sentiment_Project_Report_Fatbardh_Fetoshi.docx   # Detailed project report
 └── README.md                                        # Project overview and instructions
+```
 
 ## How to Run  
 
